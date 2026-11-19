@@ -6,3 +6,8 @@
 - Посмотреть локально — открыть `index.html` в браузере.
 - Почта для заявок: agent@blackcatsoftware.ru (ссылка в блоке «Сойдите с орбиты»).
 - Шрифты подключаются с Google Fonts (Unbounded, IBM Plex Sans, IBM Plex Mono).
+
+## Продукты
+
+- **TestBall QA** — система управления тестированием на серверах заказчика, бессрочная лицензия.
+- **BlackCat Design** — бесплатный дизайн квартиры в 3D для Windows и macOS. Кнопки «Скачать» на сайте ведут на файлы релиза `v1.0.0` в разделе Releases этого репозитория: установщик и portable-сборка для Windows, DMG для Apple Silicon и Intel.
